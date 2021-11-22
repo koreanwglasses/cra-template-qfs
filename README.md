@@ -2,16 +2,16 @@
 
 This is a template for creating the front end for a full-stack app with [Create React App](https://github.com/facebook/create-react-app).
 
-To use this template, add `--template https://github.com/koreanwglasses/cra-template-qfs` when creating a new app.
+To use this template, add `--template git+https://github.com/koreanwglasses/cra-template-qfs` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app client --template https://github.com/koreanwglasses/cra-template-qfs
+npx create-react-app client --template git+https://github.com/koreanwglasses/cra-template-qfs
 
 # or
 
-yarn create react-app client --template https://github.com/koreanwglasses/cra-template-qfs
+yarn create react-app client --template git+https://github.com/koreanwglasses/cra-template-qfs
 ```
 
 For more information, please refer to:
