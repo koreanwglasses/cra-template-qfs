@@ -1,17 +1,17 @@
-# cra-template-typescript
+# cra-template-qfs
 
-This is the official TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
+This is a template for creating the front end for a full-stack app with [Create React App](https://github.com/facebook/create-react-app).
 
-To use this template, add `--template typescript` when creating a new app.
+To use this template, add `--template @koreanwglasses/qfs` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template typescript
+npx create-react-app client --template @koreanwglasses/qfs
 
 # or
 
-yarn create react-app my-app --template typescript
+yarn create react-app client --template @koreanwglasses/qfs
 ```
 
 For more information, please refer to:

@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Where to Start
+
+Routes are defined in `src/app/router.tsx`. An example component with a guide to contribution is in `src/components`.
+
 ## Available Scripts
 
 In the project directory, you can run:
