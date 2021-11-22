@@ -1,24 +1,23 @@
 {
-  "name": "cra-template-typescript",
-  "version": "1.1.2",
+  "name": "cra-template-qfs",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "typescript"
   ],
-  "description": "The base TypeScript template for Create React App.",
+  "description": "A Create-React-App template for quick full-stack development",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template-typescript"
+    "url": "https://github.com/koreanwglasses/cra-template-qfs.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/koreanwglasses/cra-template-qfs/issues"
   },
   "files": [
     "template",
