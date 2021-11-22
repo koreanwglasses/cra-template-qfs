@@ -7,11 +7,11 @@ To use this template, add `--template @koreanwglasses/qfs` when creating a new a
 For example:
 
 ```sh
-npx create-react-app client --template @koreanwglasses/qfs
+npx create-custom-react-app client --template @koreanwglasses/qfs
 
 # or
 
-yarn create react-app client --template @koreanwglasses/qfs
+yarn create custom-react-app client --template @koreanwglasses/qfs
 ```
 
 For more information, please refer to:
